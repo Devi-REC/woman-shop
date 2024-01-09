@@ -1,0 +1,8 @@
+.product-card {
+    transition: background-color 0.3s;
+}
+
+.product-card:hover {
+    background-color: rgba(255, 182, 193, 0.2); /* Light Pink background shade on hover */
+}
+
